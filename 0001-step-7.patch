@@ -1,0 +1,24 @@
+From 0099bd32950a999df373b64937e0967345abb15d Mon Sep 17 00:00:00 2001
+From: Den <marki.drab@gmail.com>
+Date: Tue, 6 Feb 2024 19:54:12 +0200
+Subject: [PATCH] step 7
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index b3f56ae..b4eaf3d 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line 1
+-line 2
++line 1 changed in step 7
++line 2 changed in step 7
+ line 3
+ line 4
+ line 5
+-- 
+2.34.1.windows.1
+
