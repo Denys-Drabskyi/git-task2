@@ -1,6 +1,9 @@
 line 1 edited in git_1
 line 2
 line 3 edited in git_1
+line 1 changed in git_2
+line 2
+line 3 changed in git_2
 line 4
 line 5
 line 6
