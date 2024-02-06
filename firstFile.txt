@@ -3,8 +3,8 @@ line 2 changed in step 7
 line 3
 line 4
 line 5
-line 6
-line 7
+line 6 changed in step 8
+line 7 changed in step 8
 line 8
 line 9
 line 10
